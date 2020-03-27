@@ -1,0 +1,43 @@
+
+  h1{
+      background :red;
+      background:red;
+      font-family:Arial, Helvetica, sans-serif;
+      color:yellow;
+      border-bottom-style:2000px;
+      border-color:black;
+
+
+  }
+  h2{
+      color:blue;
+  }
+  p{
+      color:crimson;
+  }
+  body{
+      background:cyan;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color:black;
+  }
+  button{
+      color:yellow;
+      background:green;
+      border-bottom-style: 2000px;
+      border-color:black;
+
+  }
+  header{
+      background: gold;
+
+
+  }
+  section{
+      background: green;
+  }
+  footer{
+      background: red;
+  }
+  ol{
+      color:darkmagenta;
+  }

@@ -1,0 +1,36 @@
+
+        section{
+            margin:00px 300px 00px 300px;
+            padding :0px 1px 1px 1px;
+             background-color: black;
+            
+         }
+         hr{
+            background:black;
+         }
+         a{
+             color:rgba(26, 58, 240, 0.925);
+         }
+         button{
+             margin:10px 1px 10px 1px;
+             padding:10px 10px 10px 10px;
+         }
+        .a div{
+            background-color:black;
+            padding:0px;
+
+        }
+        .c div{
+            background-color: white;
+            padding :10px 100px 10px 200px;
+            margin:0px 0px 0px 0px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+            
+        }
+
+        footer{
+            background-color:black;
+        }
+         
+      
